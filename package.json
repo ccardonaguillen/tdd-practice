@@ -1,0 +1,25 @@
+{
+  "name": "tdd-practice",
+  "version": "1.0.0",
+  "description": "Simple practice exercise on TDD for The Odin Project FullStack JavaScript course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccardonaguillen/tdd-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccardonaguillen/tdd-practice/issues"
+  },
+  "homepage": "https://github.com/ccardonaguillen/tdd-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.19.4",
+    "jest": "^29.2.2"
+  }
+}
